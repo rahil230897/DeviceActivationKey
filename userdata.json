@@ -54,6 +54,78 @@
         "Allowoffline": false
     },
     {
+        "device_id": "49e0e1f273743",
+        "key": "trial",
+        "expirydate": "8-02-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device456",
+        "key": "surj",
+        "expirydate": "31-01-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device456",
+        "key": "key67890",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "7c84dd44f5f565bb",
+        "key": "chidchid",
+        "expirydate": "31-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "33566470bd5617af",
+        "key": "sfe700monthly",
+        "expirydate": "28-02-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "073242bc7f60bf83",
+        "key": "mvv2000",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "a27cc6f1f95138e5",
+        "key": "1500airtel",
+        "expirydate": "31-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "f72146acf8ef6ae9",
+        "key": "zed8819955457",
+        "expirydate": "03-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "e183858b7fc2cca1",
+        "key": "grab1",
+        "expirydate": "04-03-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "206ce9e6fae31a56",
+        "key": "jio",
+        "expirydate": "04-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "308eb5e7b0bb",
+        "key": "12grab",
+        "expirydate": "04-03-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device456",
+        "key": "key67890",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    },
+    {
         "device_id": "49e0e1f233d73743",
         "key": "trial",
         "expirydate": "8-02-2026",
