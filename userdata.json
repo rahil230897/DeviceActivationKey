@@ -1059,7 +1059,7 @@
         "device_id": "45298d7fbee5140e",
         "key": "1234",
         "expirydate": "15-06-2027",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "device456",
