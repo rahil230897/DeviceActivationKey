@@ -1022,7 +1022,7 @@
     {
         "device_id": "c399e18ca0b0b8d5",
         "key": "easyorder",
-        "expirydate": "18-012-2026",
+        "expirydate": "18-12-2026",
         "Allowoffline": false
     },
     {
@@ -1038,9 +1038,9 @@
         "Allowoffline": false
     },
     {
-        "device_id": "c2b190529a0f900e",
-        "key": "olatrial2",
-        "expirydate": "18-03-2026",
+        "device_id": "124eed8867757800",
+        "key": "200easyorder",
+        "expirydate": "19-03-2026",
         "Allowoffline": false
     },
     {
