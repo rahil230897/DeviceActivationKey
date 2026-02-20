@@ -1062,10 +1062,10 @@
         "Allowoffline": true
     },
     {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "15-06-2026",
-        "Allowoffline": false
+        "device_id": "6199ed0f6cc3b608",
+        "key": "mangura",
+        "expirydate": "15-06-2027",
+        "Allowoffline": true
     },
     {
         "device_id": "device456",
