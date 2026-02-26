@@ -1062,10 +1062,10 @@
         "Allowoffline": true
     },
     {
-        "device_id": "6199ed0f6cc3b608",
-        "key": "mangura",
-        "expirydate": "15-06-2027",
-        "Allowoffline": true
+        "device_id": "6661c42d33f24ddb",
+        "key": "grab17",
+        "expirydate": "25-03-2027",
+        "Allowoffline": false
     },
     {
         "device_id": "bc23d2c74ddf7235",
